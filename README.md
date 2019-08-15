@@ -4,6 +4,6 @@ ESP IDF source code and instructions for using our uFR API Libraries on uFR Onli
 
 uFR Library is used as IDF Component.
 
-#uFR Library API reference document
+# uFR Library API reference document
 
 https://www.d-logic.net/code/nfc-rfid-reader-sdk/ufr-doc/blob/master/Using%20Android%20uFR%20Library.pdf
